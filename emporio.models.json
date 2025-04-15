@@ -1,4 +1,12 @@
 {
+    "Vittoria di Savoia": {
+        "height": 1.73, "nsfw": "true",
+        "shoe_size": 8, "country": "IT",
+        "birthday": "December 28, 2003",
+        "language": {
+            "RU": { "title": "Виктория Савойская" }
+        }
+    },
     "Audrey Hepburn": {
         "height": 1.7, "weight": 47,
         "sizes": "76-51-86", "nsfw": "true",
