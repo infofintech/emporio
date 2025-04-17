@@ -4,7 +4,14 @@
         "shoe_size": 8, "country": "IT",
         "birthday": "December 28, 2003",
         "language": {
-            "RU": { "title": "Виктория Савойская" }
+            "RU": { "title": "Виктория Савойская" },
+            "UA": { "title": "Вітторія Савойська" },
+            "BG": { "title": "Виктория Савойска" },
+            "CZ": { "title": "Vittoria Savojská" },
+            "FR": { "title": "Vittoria de Savoie" },
+            "BE": { "title": "Vittoria de Savoie" },
+            "ES": { "title": "Victoria de Saboya" },
+            "MX": { "title": "Victoria de Saboya" }
         }
     },
     "Audrey Hepburn": {
