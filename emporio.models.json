@@ -19,6 +19,7 @@
         "sizes": "76-51-86", "nsfw": "true",
         "shoe_size": 10.5, "country": "EU",
         "birthday": "May 4, 1929",
+        "deathday": "January 20, 1993",
         "language": {
             "RU": { "title": "Одри Хепберн" }
         }
@@ -37,6 +38,7 @@
         "sizes": "91-56-91", "nsfw": "true",
         "shoe_size": 7, "country": "US",
         "birthday": "June 1, 1926",
+        "deathday": "August 5, 1962",
         "language": {
             "RU": { "title": "Мэрилин Монро" }
         }
