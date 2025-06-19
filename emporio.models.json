@@ -159,6 +159,7 @@
     },
     "Buckingham Palace": {
         "country": "GB", "insignia": "Palace",
+        "maison": "https://www.royal.uk",
         "memoir": "Buckingham Palace has served as the official London residence of the UK’s sovereigns since 1837 and today is the administrative headquarters of the Monarch. Although in use for the many official events and receptions held by The King, the State Rooms at Buckingham Palace are open to visitors every summer. Buckingham Palace has 775 rooms. These include 19 State rooms, 52 Royal and guest bedrooms, 188 staff bedrooms, 92 offices and 78 bathrooms. In measurements, the building is 108 metres long across the front, 120 metres deep (including the central quadrangle) and 24 metres high. Today, Buckingham Palace is very much a working building and the centrepiece of the UK’s constitutional monarchy, serving as the venue for many royal events and ceremonies from entertaining foreign Heads of States to celebrating achievement at Investitures and receptions. More than 50,000 people visit the Palace each year as guests to State Banquets, lunches, dinners, receptions and Garden Parties. His Majesty also holds weekly audiences with the Prime Minister and receives newly-appointed foreign Ambassadors at Buckingham Palace.",
         "language": {
             "UA": {
