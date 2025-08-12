@@ -14,6 +14,15 @@
             "MX": { "title": "Victoria de Saboya" }
         }
     },
+    "Scarlett Johansson": {
+        "height": 1.6, "weight": 57,
+        "sizes": "92-64-92", "nsfw": "true",
+        "shoe_size": 8.5, "country": "US",
+        "birthday": "November 22, 1984",
+        "language": {
+            "RU": { "title": "Скарлетт Йоханссон" }
+        }
+    },
     "Audrey Hepburn": {
         "height": 1.7, "weight": 47,
         "sizes": "76-51-86", "nsfw": "true",
